@@ -7,7 +7,7 @@ int main(void)
 	a = &b;
 
 	printf("%d\n", a);
-	printf("%d\n", ++a); //intÇüÀÌ±â ¶§¹®¿¡ +4°¡ µÈ´Ù.
+	printf("%d\n", ++a); //intí˜•ì´ê¸° ë•Œë¬¸ì— +4ê°€ ëœë‹¤.
 	printf("%d\n", b);
 	printf("%d\n", b++);
 	printf("%d\n", ++b);
